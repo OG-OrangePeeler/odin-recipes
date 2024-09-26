@@ -1,1 +1,1 @@
-This is a basic recipe website that displays my current knowlege of git and html.
+This is a basic recipe website that displays my current knowlege of git and html.   
